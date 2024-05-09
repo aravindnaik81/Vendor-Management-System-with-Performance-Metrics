@@ -25,7 +25,7 @@ purchase_order/ : Create a newpurchase order
 purchase_orders/<int:po_id>/ : Retrieves a specified purchase order
 purchase_orders/<int:po_id>/update/ : Update a purchase order
 purchase_orders/<int:po_id>/delete/ : Delete a purchase order
-purchase_orders/ : Retrieves all purchased order
+purchase_orders/ : Retrieves all purchased order.
 
 # Vendor Performance Evaluation
 vendors/<int:vendor_id>/performance/ : Retrieve performance metrics for a vendor.
